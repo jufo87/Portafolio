@@ -25,8 +25,7 @@ Incluye funcionalidades de consulta, registro y manejo de datos según los reque
 
 
 📂 Repositorio del Proyecto
-🔗 https://github.com/tu-usuario/m6portafolio
-(Reemplaza con la URL real de tu repositorio.)
+🔗 https://github.com/jufo87/Portafolio.git
 
 🛠️ Tecnologías Utilizadas
 Backend
@@ -63,7 +62,7 @@ Tomcat
 
 📦 Cómo Ejecutar el Proyecto
 1️⃣ Clonar el repositorio
-git clone https://github.com/tu-usuario/m6portafolio.git
+git clone https://github.com/jufo87/Portafolio.git
 2️⃣ Importar en tu IDE
 Abrir como proyecto Maven.
 
